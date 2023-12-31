@@ -44,7 +44,7 @@ HammerHead is a Line Follower Robot Based on ATmega328 and TCRT5000 IR sensors, 
 
 
 <div align="center"> 
-  <img src="https://github.com/cifertech/ESP32-DIV/assets/62047147/335e1228-4cb5-4aa0-9b72-c09dcf7b02f9" alt="screenshot" width="Auto" height="Auto" />
+  <img src="https://github.com/cifertech/Line-Follower/assets/62047147/4e47bff0-b196-434d-8f25-07b53ef120c7" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 
