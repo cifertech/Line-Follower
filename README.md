@@ -52,6 +52,8 @@ HammerHead is a Line Follower Robot Based on ATmega328 and TCRT5000 IR sensors, 
 ### :dart: Features
 
 - Following Lines (ㆆ _ ㆆ)
+- Buzzer and Neopixel: It has an integrated buzzer, producing a short sound when the robot detects a line. The neopixel displays red and green lights to indicate its operational status.
+- User-Friendly Operation: A simple push button initiates or halts the robot's movement.
 
 
 <!-- License --> 
