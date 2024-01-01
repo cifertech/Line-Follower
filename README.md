@@ -31,7 +31,7 @@
 
 ## 📖 Explore the Full Documentation
 
-Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](ttps://cifertech.net/hammer-head-the-line-follower-robot). Click the link and explore further!
+Ready to dive deeper into our project's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/hammer-head-the-line-follower-robot). Click the link and explore further!
 
 
 ## ⚠ Future Changes
